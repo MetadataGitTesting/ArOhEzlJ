@@ -1,0 +1,57 @@
+name: corey.ullrich
+description: responsive
+version: 4.93.296
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: coreyullrich
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 23:42:47'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 23:42:47'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T23:42:47.806319Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '575244205'
+  createdAt: '2024-12-08T23:42:47.806319Z'
+  type: plibMaven
+projectDependencies:
+  '188':
+    projectUID: 188
+    projectName: carrol.jenkins
+    repositoryPath: gitUri=http://gitserver:3000/dev_6chP499N_team_240/dev_6chP499N_project_188.git&subPath=
+    version: carrol.jenkins/0.5.5.942
+    isDefault: false
+    author: null
+    createdAt: '2024-12-08 23:42:47'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
